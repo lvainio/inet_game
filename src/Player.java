@@ -2,7 +2,7 @@
  * This class is used to store information about players in the game, 
  * including their position, health, damage.
  * 
- * @author Leo Vainio, lvainio@kth.se
+ * @author Leo Vainio
  */
 
 public class Player {
